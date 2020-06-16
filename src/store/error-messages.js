@@ -1,8 +1,0 @@
-export const DAI_BALANCE = 'Error retrieving DAI balance'
-export const CR8_BALANCE = 'Error retrieving CR8 balance'
-export const EXCHANGE_RATE = 'Error retrieving CR8 to DAI exchange rate'
-export const SETUP = 'Error setting up contract'
-export const APPROVE_DAI = 'Error approving DAI'
-export const PACK = 'Error packing DAI'
-export const UNPACK = 'Error unpacking CR8'
-export const NETWORK = 'This is alpha software and only runs on the Kovan testnet. Open Metamask and switch your network to \'Kovan Test Network\' to use CRATE.'
